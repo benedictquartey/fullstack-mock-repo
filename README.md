@@ -2,6 +2,8 @@
 
 The aim of this repository is to report in GitHub contributions coming from other platforms.
 
+These contributions were made to a collection of private full-stack projects I worked on for various clients. 
+
 It has been automatically created using Miro Mannino's [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github)
 
 ## Notice
